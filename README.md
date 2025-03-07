@@ -7,8 +7,3 @@
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&labelColor=purple&color=purple)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&labelColor=blue&color=blue)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats-rose-mu-72.vercel.app/api?username=ApaeP&show=prs_merged,prs_merged_percentage&hide=issues&theme=dark&hide_border=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ApaeP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-rose-mu-72.vercel.app/api/top-langs/?username=ApaeP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
